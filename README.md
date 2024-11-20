@@ -54,7 +54,7 @@ You can visit my portfolio by navigating to this link:
 ## 📧 Contact  
 Feel free to reach out to me for collaborations, questions, or opportunities:  
 - *Email*: kashyapashutosh8090@gmail.com  
-- *LinkedIn*: [Ashutosh Kashyap]((https://www.linkedin.com/in/ashutosh-kashyap-034849229/))  
+- *LinkedIn*: [Ashutosh Kashyap](https://www.linkedin.com/in/ashutosh-kashyap-034849229/)  
 - *GitHub*: [Ashutosh Kashyao](https://github.com/ashutoshkashyap01)  
 - *ContactUs*:+91-9119663423 
 ---
